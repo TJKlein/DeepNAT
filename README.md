@@ -26,4 +26,4 @@ For running DeepNAT segmentation we used a modified version of the deep learning
 
 ### Trained Model files
 
-Available shortly
+Network definition files can be found [here](https://github.com/TJKlein/DeepNAT/blob/master/network/).
